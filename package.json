@@ -1,0 +1,25 @@
+{
+  "name": "excel-qr-html-pdf",
+  "version": "1.0.0",
+  "description": "Convert excel data to QR code and use it as image in HTML with other fields and finally convert it to pdf",
+  "main": "main.js",
+  "dependencies": {
+    "convert-excel-to-json": "^1.6.1",
+    "dynamic-html-pdf": "^1.0.0",
+    "qr-image": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purab93/node-excel-qr-html-pdf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Purab93/node-excel-qr-html-pdf/issues"
+  },
+  "homepage": "https://github.com/Purab93/node-excel-qr-html-pdf#readme"
+}
